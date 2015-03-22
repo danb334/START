@@ -1,5 +1,5 @@
 
-#Assignment_Week2	
+#Assignment_Week 2	
 1. Dan Bourbeau
 2. I work in Property Management, went to school for Industrial Engineering. 
 3. The data I'm most interested is energy and water consumption volumes. I want to merge municiple and federal data with the grainular individual consumption. I have toured NYC Open Data.
